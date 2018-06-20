@@ -1,2 +1,1 @@
-# gitlab-auto-deploy-app
-# gitlab-auto-deploy-app
+# GitLab's Auto-deploy Helm Chart
